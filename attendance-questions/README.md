@@ -1,6 +1,6 @@
 # Attendance question slides — 2026-27
 
-90 projected slides: 30 per grade, one per meeting week, rendered from the
+105 projected slides: 35 per grade, one per meeting week, rendered from the
 Spark Creativity attendance-question deck at 1400px wide.
 
 `g6-w01-q002.jpg` = Grade 6, week 1, page 2 of the 182-page source deck.
