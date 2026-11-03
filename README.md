@@ -14,3 +14,7 @@ re-run a generator, check that it doesn't overwrite or delete hand-made files.
 **These are student-facing and public.** Guided-notes sheets are blank fill-in
 pages: no answer keys, no teacher notes. Keep it that way — anything with
 answers or teacher material belongs in the private curriculum repo, not here.
+
+## Photo credits
+
+- `attendance-questions/g7-w09-q148-jet.jpg`, right panel: "Airbus A350-900 Maiden Flight (Low pass) 1" by Duch.seb, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Airbus_A350-900_Maiden_Flight_(Low_pass)_1.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Cropped and placed on a sky background.
